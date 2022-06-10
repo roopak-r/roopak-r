@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roopak-r&label=Profile%20views&color=0e75b6&style=flat" alt="roopak-r" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsroopakr" target="blank"><img src="https://img.shields.io/twitter/follow/itsroopakr?logo=twitter&style=for-the-badge" alt="itsroopakr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/itsroopakr" target="blank"><img src="https://img.shields.io/twitter/follow/itsroopakr?logo=twitter&style=for-the-badge" alt="Roopak R" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
